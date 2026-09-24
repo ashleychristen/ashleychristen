@@ -1,14 +1,13 @@
 # Hi, I'm Ashley
  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Times+New+Roman&pause=1000&color=C457F7&width=435&lines=Exploring+AI%2C+cognition%2C+and+real-world+impact)](https://git.io/typing-svg) 
 
-I'm a Computer Science & Computational Cognition student at the University of Toronto, interested in building at the intersection of AI, cognitive science, and biology.
+I'm a Master of Math thesis student in Computer Science at the University of Waterloo, interested in building at the intersection of AI, cognitive science, and human-computer interaction.
 
 ## Current Work
-- Researching bias in algorithmic hiring (audio-based LLMs)
-- Building RAG systems like BarLLM for scientific knowledge access
 - Exploring human-centered and interpretable machine learning
 
 ## Past Work
+- Researching bias in algorithmic hiring (audio-based LLMs)
 - Published research using LLMs to analyze 10,000+ plant genes
 - Developed ML methods for tracking coordination in ASD therapy
 - Built AI systems integrating biofeedback, APIs, and real-world data
